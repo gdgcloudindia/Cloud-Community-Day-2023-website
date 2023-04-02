@@ -8,10 +8,10 @@
           :src="require('@/assets/img/google-cloud-india.png')"
           style="width: 30%"
         ></v-img>
-        <p class="google-font mb-2 header" style="font-size: 8.5vh;line-height: 1.22;font-weight:900;color: #4285F4;">Community Days India 2022</p>
+        <p class="google-font mb-2 header" style="font-size: 8.5vh;line-height: 1.22;font-weight:900;color: #4285F4;">Community Days India 2023</p>
         <p class="google-font mt-5 mb-3" style="font-size:115%">
-          <v-icon class="mb-1">mdi-calendar-text</v-icon>&nbsp;July - September,
-          2022
+          <v-icon class="mb-1">mdi-calendar-text</v-icon>&nbsp;March - May,
+          2023
           <span style="color:#4285F4">
             <b>|</b>
           </span>

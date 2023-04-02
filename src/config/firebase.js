@@ -5,14 +5,14 @@ import "firebase/performance";
 import "firebase/messaging";
 // import { getAnalytics } from "firebase/analytics";
 
+
 const firebaseConfig = {
-  apiKey: "AIzaSyDPGT-rUfbUXgTeVOtygoxq8JzwCkFJRd0",
-  authDomain: "cloud-community-day-2022.firebaseapp.com",
-  projectId: "cloud-community-day-2022",
-  storageBucket: "cloud-community-day-2022.appspot.com",
-  messagingSenderId: "818025936365",
-  appId: "1:818025936365:web:ea3e6c4af6743767e9a3e4",
-  measurementId: "G-WRE9YMYZKJ"
+  apiKey: "AIzaSyA8XGXfEDM7W51onQWX9hrB1SBlLKx9nrk",
+  authDomain: "cloud-community-day-2023.firebaseapp.com",
+  projectId: "cloud-community-day-2023",
+  storageBucket: "cloud-community-day-2023.appspot.com",
+  messagingSenderId: "801834964117",
+  appId: "1:801834964117:web:f1b5e599a334ba787e379c"
 };
 
 const app = firebase.initializeApp(firebaseConfig);
