@@ -30,7 +30,7 @@
         >
           <iframe
             @load="load"
-            src="https://www.google.com/maps/d/embed?mid=18SNoDMGyxdiSs9q2ntFAb7Wt8teSotQ&ehbc=2E312F&z=4.7"
+            src="https://www.google.com/maps/d/u/0/embed?mid=170r7HuPqmC_2IscRoMNk5TgYw8JOjd4&ehbc=2E312F"
             width="100%"
             height="500"
             id="myIframe"
