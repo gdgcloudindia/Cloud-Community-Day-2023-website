@@ -158,5 +158,13 @@
     "link": "https://gdg.community.dev/gdg-cloud-chandigarh/",
     "rsvp": "",
     "card": "chandigarh.png"
+  },
+    {
+    "community": "GDG Cloud Madurai",
+    "city": "Madurai",
+    "date": "29-April-2023",
+    "link": "https://gdg.community.dev/gdg-cloud-madurai/",
+    "rsvp": "https://gdg.community.dev/events/details/google-gdg-cloud-madurai-presents-google-cloud-community-day-madurai-2023/",
+    "card": "madurai.png"
   }
 ]
