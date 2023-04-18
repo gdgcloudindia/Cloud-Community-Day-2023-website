@@ -17,18 +17,18 @@
     },
     {
         "question": "Are Google Cloud Community Days events paid?",
-        "answer": "All Google Cloud Community Days events are free to attend."
+        "answer": "Google Cloud Community Days events are organized by city-wide GDG Cloud chapters who may choose to keep the events paid or free to attend as suitable for their local community."
     },
     {
         "question": "What will attendees get by participating in the event?",
         "answer": "We have a plethora of AMAZING perks awaiting for you! Every participant who attends a Google Cloud Community Day event takes away lots of learning along with loads of swags."
     },
     {
-        "question": "How can I become a member of GDG?",
-        "answer": "Head to Google developers group website (https://gdg.community.dev/) and find the nearest GDG in your location."
+        "question": "How can I become a member of GDG or GDG Cloud?",
+        "answer": "Head to Google Developers Group website (https://gdg.community.dev/) and find the nearest GDG or GDG Cloud chapter in your location."
     },
     {
         "question": "How can I communicate my queries?",
-        "answer": "Reach out to us at: cloudcommunitydays@gmail.com"
+        "answer": "Reach out to us at: cloudcommunitydays@gmail.com. You can also send your queries to the communication channels to your nearest GDG or GDG Cloud chapters."
     }
 ]
